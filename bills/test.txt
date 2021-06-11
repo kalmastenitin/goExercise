@@ -1,0 +1,5 @@
+bill breakdown: 
+veg paneer:               ...$20.04 
+momos:                    ...$10.56 
+tip:                      ...$1.00 
+total:                    ...$31.60 
